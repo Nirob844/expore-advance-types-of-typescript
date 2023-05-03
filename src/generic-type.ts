@@ -8,7 +8,7 @@ const rollNumbers1: GenericArray<string> = ['1', '3', '5', '4'];
 type NameRollType = { name: string; roll: number }
 const NameRoll: GenericArray<NameRollType> = [
     {
-        name: "Nirpb",
+        name: "Nirob",
         roll: 1
     },
     {
