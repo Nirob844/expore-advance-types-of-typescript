@@ -19,7 +19,7 @@ type Sheikh = {
 }
 
 type CheckProperty<T, K> = K extends keyof Sheikh ? true : false;
-type CheckProperty1 = CheckProperty<Sheikh, 'wife3'>
+type CheckProperty1 = CheckProperty<Sheikh, 'wife2'>
 
 
 type Bandhubi = "Monika" | "Rachel" | "Pheobe";
