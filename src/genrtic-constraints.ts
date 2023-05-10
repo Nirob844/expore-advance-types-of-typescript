@@ -25,4 +25,4 @@ const myInfo1 = {
     other1: false,
     other2: null,
 };
-const result5 = addMeInMyCrushMind(myInfo);
+const result5 = addMeInMyCrushMind1(myInfo1);
